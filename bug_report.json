@@ -1,1 +1,9 @@
-
+{"Summary":"na stranice oplaty ne rabotaet knopka oplatit",
+ "Enviroment":"windows 10",
+ "steps to reproduce":["1.Otkryt sayt",
+                       "2.Vybrat tovar",
+                       "3.Dobavit tovar v korziny",
+                       "4.Perejti na stranicy korziny",
+                       "5.nazhat na knopku oplatit"],
+ "Expected result":"pri nazhatii na knopku oplaty otkryvayetsya stranica oplaty",
+ "Actual result":"pri nazhatii na knopku oplaty nichego ne proishodit"}
