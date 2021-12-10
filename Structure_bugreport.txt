@@ -1,0 +1,6 @@
+1. Summmary.
+2. Steps to reproduce.
+3. Expected Result.
+4. Actual result.
+5. Attachments.
+6. Enviroment.
